@@ -158,3 +158,4 @@ pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 triplelift.com, 14705-EB, RESELLER
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
