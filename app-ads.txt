@@ -91,7 +91,7 @@ dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
 loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
-unity.com, 153301061, DIRECT, 96cabb5fbdde37a7
+
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
